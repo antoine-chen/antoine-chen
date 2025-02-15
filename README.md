@@ -1,5 +1,5 @@
 # 💫 À propos de moi:
-💻 Étudiant en BUT informatique à l'IUT de Montreuil.<br>😎Je suis en train d'apprendre le Javascript et le Python en autodidacte.<br>😁J'apprends aussi plein de Tech Stack à l'IUT !<br><br><br>🚨 À la recherche d’une alternance en tant que développeur full stack/développeur web dès septembre 2025. <br> Contrat : 2 ans rythme 3j/2j mobilité : Paris/ Île de France<br>
+💻 Étudiant en BUT informatique à l'IUT de Montreuil.<br>😎Je suis en train d'apprendre le Javascript et le Python en autodidacte.<br>😁J'apprends aussi plein de Tech Stack à l'IUT !<br>🚨 À la recherche d’une alternance en tant que développeur full stack/développeur web dès septembre 2025. <br> Contrat : 2 ans rythme 3j/2j mobilité : Paris/ Île de France<br>
 
 Motivé, impliqué et curieux , je valorise le travail en équipe et m'engage avec détermination dans chaque mission.
 
